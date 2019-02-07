@@ -1,5 +1,3 @@
 Hello
 Welcome to Git
-Thanks!!!
-
-File midified.....
+Final!!
