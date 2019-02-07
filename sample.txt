@@ -1,7 +1,11 @@
 Hello
 Welcome to Git
+<<<<<<< HEAD
 Thanks!!!
 
 Line added
 
 Confirmed!!!
+=======
+Final!!
+>>>>>>> satya
